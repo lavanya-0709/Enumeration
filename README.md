@@ -72,8 +72,8 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
+<img width="713" height="274" alt="image" src="https://github.com/user-attachments/assets/2f2bd500-5823-4e3a-9e2f-114b5ea479e0" />
 
-<img width="900" height="547" alt="Screenshot 2026-08-19 141740" src="https://github.com/user-attachments/assets/373cdd9a-2f6e-41bc-a600-96ff34dfe759" />
 
 
 ## dnsenum
@@ -90,8 +90,7 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 ## OUTPUT
-
-<img width="919" height="893" alt="Screenshot 2026-08-19 142019" src="https://github.com/user-attachments/assets/078bea09-f703-4653-8784-6394e727bd86" />
+<img width="929" height="883" alt="image" src="https://github.com/user-attachments/assets/87cfb291-1643-468e-b80c-0be8de3fd4da" />
 
 
 ## smtp-user-enum
@@ -102,7 +101,7 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 select any username in the first column of the above file and check the same
 
 ## OUTPUT
-<img width="823" height="506" alt="Screenshot 2026-08-19 142215" src="https://github.com/user-attachments/assets/31e9cf99-f65f-42f3-9666-87c14bef1f01" />
+<img width="954" height="913" alt="image" src="https://github.com/user-attachments/assets/5720c34b-f39c-46ff-99d6-509cf85bf58f" />
 
 
 # Telnet for smtp enumeration
@@ -111,7 +110,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
 ## Output
-<img width="607" height="168" alt="Screenshot 2026-08-19 142258" src="https://github.com/user-attachments/assets/69b134df-5e31-417d-9694-58d484bea6a6" />
+<img width="861" height="848" alt="image" src="https://github.com/user-attachments/assets/cd114548-f264-429f-b0f3-68cb17985fdb" />
+
  
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -120,8 +120,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-
-<img width="757" height="254" alt="Screenshot 2026-08-19 142332" src="https://github.com/user-attachments/assets/4f6ddbb4-27ac-4a57-9419-b30cf8ea5e72" />
+<img width="881" height="866" alt="image" src="https://github.com/user-attachments/assets/dfa2f339-ba02-4918-97ca-d4212c851218" />
 
 
 ## RESULT:
